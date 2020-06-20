@@ -1,3 +1,4 @@
 # hello-world
 Test repository
-Mal schauen ob das ganze hier funktioniert. IDK. Es ist sehr verwirrend.
+Ich meine, dass das hier ganz gut funktioniert und ich es soweit ein wenig verstanden habe. 
+Doch was waren jetzt nochmal commits?
